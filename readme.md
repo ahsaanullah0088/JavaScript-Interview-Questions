@@ -9,8 +9,7 @@ JavaScriptInterview Questions for Freshers
 8.  What is NaN property in JavaScript?
 9.  Explain passed by value and passed by reference.
 10.  What is an Immediately Invoked Function in JavaScript?
-11.  What do you mean by strict mode in javascript and characteristics of javascript
-strict-mode?
+11.  What do you mean by strict mode in javascript and characteristics of javascript strict-mode?
 12.  Explain Higher Order Functions in javascript.
 13.  Explain “this” keyword.
 14.  What do you mean by Self Invoking Functions?
@@ -20,7 +19,7 @@ strict-mode?
 18.  What are some advantages of using External JavaScript?
 19.  Explain Scope and Scope Chain in javascript.
 20.  Explain Closures in JavaScript.
-Mention some advantages of javascript.
+     Mention some advantages of javascript.
 22.  What are object prototypes?
 23.  What are callbacks?
 24.  What are the types of errors in javascript?
@@ -65,3 +64,7 @@ JavaScriptInterview Questions for Experienced
 62.  Write the code to find the vowels
 63.  In JavaScript, how do you turn an Object into an Array []?
 64.  What is the output of the following code?
+
+
+1.  What are the different data types present in javascript?
+
